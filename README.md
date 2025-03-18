@@ -11,7 +11,7 @@ This repository contains **Digital Forensics Lab 1**, where I explored various *
 - **LinuxConsole ISO** for integrity verification.  
 
 ## 📂 Files in this Repository  
-- 📄 **[Download Digital Forensics Lab 1](./DigitalForensicsLab1.docx)** → Lab report detailing all tasks performed.  
+- 📄 **Download Digital Forensics Lab 1**→ Lab report detailing all tasks performed.  
 - 📝 **README.md** → This file, explaining the repository.  
 
 ## 📢 Why Hashing Matters?  
