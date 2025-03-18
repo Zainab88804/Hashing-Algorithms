@@ -18,4 +18,4 @@ This repository contains **Digital Forensics Lab 1**, where I explored various *
 Hashing ensures **data integrity**, helps in **digital forensics**, and plays a key role in **cybersecurity** for detecting unauthorized file modifications.  
 
 ##Download Now
-[Download Digital Forensics Lab 1]()
+[Download Digital Forensics Lab 1](https://github.com/Zainab88804/Hashing-Algorithms/raw/refs/heads/main/DigitalForensicsLab1.docx)
